@@ -11,6 +11,13 @@ This version is made with Unity in C# and this is my firt Unity project.
 - Better ghost ball calcul
 - Player now unable to score point
 
+## How to build
+Clone this project and open it with Unity and use the Unity build feature to test it on your computer
+**You will need a good computer to run it smoothly**
+
+## Demo
+[YouTube](https://www.youtube.com/watch?v=q3KTWuEAKY0)
+
 ## Visual differences :
 New version
 ![New version](/new.png)
