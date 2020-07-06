@@ -1,3 +1,4 @@
+https://github.com/Blackoutburst/Rhythm-Pong/releases/download/v1.0.0/Rhythm.Pong.zip
 # Rhythm Pong
 
 This projet is a remake of my old Rhythm Pong created in July 2019.
