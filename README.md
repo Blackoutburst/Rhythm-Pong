@@ -1,4 +1,3 @@
-[Test](https://github.com/Blackoutburst/Rhythm-Pong/archive/v1.0.0.zip)
 # Rhythm Pong
 
 This projet is a remake of my old Rhythm Pong created in July 2019.
