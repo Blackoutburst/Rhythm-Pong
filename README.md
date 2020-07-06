@@ -10,6 +10,7 @@ This version is made with Unity in C# and this is my firt Unity project.
 - New component like the middle gravity making the ball curve.
 - Better ghost ball calcul
 - Player now unable to score point
+- New sprite
 
 ## How to build
 Clone this project and open it with Unity and use the Unity build feature to test it on your computer
@@ -24,3 +25,6 @@ New version
 
 Old version
 ![Old version](/old.png)
+
+## Special credits
+Song used inside this project **[GetSix - We're done](https://soundcloud.com/getsixofficial/were-done)** :heart:
