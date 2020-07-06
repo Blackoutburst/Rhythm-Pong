@@ -1,4 +1,4 @@
-# Rhythm-Pong
+# Rhythm Pong
 
 This projet is a remake of my old Rhythm Pong created in July 2019.
 
