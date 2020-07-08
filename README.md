@@ -31,16 +31,3 @@ Old version
 
 ## Special credits
 Song used inside this project **[GetSix - We're done](https://soundcloud.com/getsixofficial/were-done)** :heart:
-
-
-
-
-
-
-
-
-
-
-
-
-~~P.S My english is perfect~~
