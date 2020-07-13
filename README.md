@@ -30,4 +30,4 @@ Old version
 ![Old version](/old.png)
 
 ## Special credits
-Song used inside this project **[GetSix - We're done](https://soundcloud.com/getsixofficial/were-done)** :heart:
+Song used inside this project **[GetSix - Sky Fracture](https://soundcloud.com/getsixofficial/sets/sky-fracture)** :heart:
