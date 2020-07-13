@@ -68,7 +68,7 @@
 				float2 p = resolution;
 
 	
-				lightColor = float3(1.0, 0.6, 1.0);
+				lightColor = float3(1.0, 0.2, 1.0);
 
 				//Top phasing
 				float sx = (_Height) * sin(_Phase * p.x + _Times * 2.0);
