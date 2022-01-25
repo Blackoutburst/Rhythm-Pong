@@ -1,5 +1,6 @@
 [![License](https://img.shields.io/github/license/Blackoutburst/Rhythm-Pong.svg)](LICENSE)
 [![Release](https://img.shields.io/github/release/Blackoutburst/Rhythm-Pong.svg)](https://github.com/Blackoutburst/Rhythm-Pong/releases)
+[<img src="https://img.shields.io/badge/Webpage-Rhythm Pong-blueviolet">](https://www.blackoutburst.com/pong.html)
 # Rhythm Pong
 
 This projet is a remake of my old Rhythm Pong created in July 2019.
